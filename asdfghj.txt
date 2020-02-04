@@ -1,0 +1,12 @@
+GIT cheatshit 
+install git hub 
+create git hub account 
+configure git 
+create folder 
+create a repository 
+open Git terminal inside your project folder (git bash here)
+git init - to intialize empty respository one time 
+git add . to add everything 
+git commit -m "this is my first commit"
+git remote add orgin 
+git push -u orgin master 
